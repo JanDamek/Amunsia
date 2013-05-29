@@ -1,0 +1,344 @@
+Tamunsie
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/Info.plist amunsie/amunsie-Info.plist
+cDataModelVersionCompile /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/amunsie.momd /Users/damekjan74/Desktop/amunsie/amunsie/amunsie.xcdatamodeld
+cProcessPCH /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/PrecompiledHeaders/amunsie-Prefix-emgovafxzbgzkpdsoyzvvozvonxa/amunsie-Prefix.pch.pth amunsie/amunsie-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/main.o /Users/damekjan74/Desktop/amunsie/amunsie/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/comAppDelegate.o /Users/damekjan74/Desktop/amunsie/amunsie/comAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/comMasterViewController.o /Users/damekjan74/Desktop/amunsie/amunsie/comMasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/comDetailViewController.o /Users/damekjan74/Desktop/amunsie/amunsie/comDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/amunsie normal i386
+cGenerateDSYMFile /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app.dSYM /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/amunsie
+cCompileXIB /Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comMasterViewController_iPhone.xib
+cCopyStringsFile /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/en.lproj/InfoPlist.strings amunsie/en.lproj/InfoPlist.strings
+cCompileXIB /Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comMasterViewController_iPad.xib
+cCompileXIB /Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comDetailViewController_iPhone.xib
+cCompileXIB /Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comDetailViewController_iPad.xib
+cTouch /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004F161A590000000000000110
+t1326848601
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004F4FA99400000000002C8C00
+t1330620820
+s2919424
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F4FA9940000000000245480
+t1330620820
+s2380928
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F4FA9970000000000353830
+t1330620823
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F4FA9A000000000008F7390
+t1330620832
+s9401232
+
+N/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/PrecompiledHeaders/amunsie-Prefix-emgovafxzbgzkpdsoyzvvozvonxa/amunsie-Prefix.pch.pth
+t2
+s0
+
+N/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/amunsie.LinkFileList
+c000000004F528AAC000000000000028C
+t1330809516
+s652
+
+N/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/comAppDelegate.o
+t2
+s0
+
+N/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/comDetailViewController.o
+t2
+s0
+
+N/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/comMasterViewController.o
+t2
+s0
+
+N/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app
+t2
+s0
+
+N/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app.dSYM
+t2
+s0
+
+N/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/Info.plist
+t2
+s0
+
+N/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/PkgInfo
+t2
+s0
+
+N/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/amunsie
+t2
+s0
+
+N/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/amunsie.momd
+t2
+s0
+
+N/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/en.lproj/comDetailViewController_iPad.nib
+t2
+s0
+
+N/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/en.lproj/comDetailViewController_iPhone.nib
+t2
+s0
+
+N/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/en.lproj/comMasterViewController_iPad.nib
+t2
+s0
+
+N/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/en.lproj/comMasterViewController_iPhone.nib
+t2
+s0
+
+N/Users/damekjan74/Desktop/amunsie/amunsie/amunsie-Prefix.pch
+c000000004F5281EE000000000000015F
+t1330807278
+s351
+
+N/Users/damekjan74/Desktop/amunsie/amunsie/amunsie.xcdatamodeld
+c000000004F5281EE0000000000000088
+t1330807278
+s136
+
+N/Users/damekjan74/Desktop/amunsie/amunsie/comAppDelegate.m
+c000000004F5281EE0000000000002383
+t1330807278
+s9091
+
+N/Users/damekjan74/Desktop/amunsie/amunsie/comDetailViewController.m
+c000000004F5281EE0000000000000BE5
+t1330807278
+s3045
+
+N/Users/damekjan74/Desktop/amunsie/amunsie/comMasterViewController.m
+c000000004F5281EE0000000000002AA3
+t1330807278
+s10915
+
+N/Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/InfoPlist.strings
+c000000004F5281EE000000000000002D
+t1330807278
+s45
+
+N/Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comDetailViewController_iPad.xib
+c000000004F5281EE0000000000001FD3
+t1330807278
+s8147
+
+N/Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comDetailViewController_iPhone.xib
+c000000004F5281EE0000000000001EC7
+t1330807278
+s7879
+
+N/Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comMasterViewController_iPad.xib
+c000000004F5281EE0000000000001C36
+t1330807278
+s7222
+
+N/Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comMasterViewController_iPhone.xib
+c000000004F5281EE000000000000180F
+t1330807278
+s6159
+
+N/Users/damekjan74/Desktop/amunsie/amunsie/main.m
+c000000004F5281EE0000000000000159
+t1330807278
+s345
+
+Namunsie/amunsie-Info.plist
+c000000004F5281EE00000000000005B3
+t1330807278
+s1459
+
+CBuild AST from /Users/damekjan74/Desktop/amunsie/amunsie/comAppDelegate.m
+r0
+
+CBuild AST from /Users/damekjan74/Desktop/amunsie/amunsie/comDetailViewController.m
+r0
+
+CBuild AST from /Users/damekjan74/Desktop/amunsie/amunsie/comMasterViewController.m
+r0
+
+CBuild AST from /Users/damekjan74/Desktop/amunsie/amunsie/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies6ea1f32bc202b541^1a4e112cc202b541^---0#1#0#--18"Check dependencies36"C9756451-2449-41AE-AB84-207ABEEB2F3A-
+
+CCompileC DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/comAppDelegate.o /Users/damekjan74/Desktop/amunsie/amunsie/comAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352502316.859422
+e352502317.035397
+r1
+xCompileC
+xDerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/comAppDelegate.o
+x/Users/damekjan74/Desktop/amunsie/amunsie/comAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/damekjan74/Desktop/amunsie/amunsie/comAppDelegate.m3c30dc2cc202b541^132d092dc202b541^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/damekjan74/Desktop/amunsie/amunsie/comAppDelegate.m0000000000000000^3574"CompileC DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/comAppDelegate.o amunsie/comAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/damekjan74/Desktop/amunsie    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/amunsie-generated-files.hmap -I/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/amunsie-own-target-headers.hmap -I/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/amunsie-all-target-headers.hmap -iquote /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/amunsie-project-headers.hmap -I/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/include -I/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/DerivedSources/i386 -I/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/DerivedSources -F/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator -include /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/PrecompiledHeaders/amunsie-Prefix-emgovafxzbgzkpdsoyzvvozvonxa/amunsie-Prefix.pch -MMD -MT dependencies -MF /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/comAppDelegate.d --serialize-diagnostics /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/comAppDelegate.dia -c /Users/damekjan74/Desktop/amunsie/amunsie/comAppDelegate.m -o /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/comAppDelegate.o36"FB3A7604-855A-4255-A5BA-7CB449758C30-
+
+CCompileC DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/comDetailViewController.o /Users/damekjan74/Desktop/amunsie/amunsie/comDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352502317.037513
+e352502317.166539
+r1
+xCompileC
+xDerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/comDetailViewController.o
+x/Users/damekjan74/Desktop/amunsie/amunsie/comDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/damekjan74/Desktop/amunsie/amunsie/comDetailViewController.m8ffc092dc202b541^a1a22a2dc202b541^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/damekjan74/Desktop/amunsie/amunsie/comDetailViewController.m0000000000000000^3628"CompileC DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/comDetailViewController.o amunsie/comDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/damekjan74/Desktop/amunsie    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/amunsie-generated-files.hmap -I/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/amunsie-own-target-headers.hmap -I/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/amunsie-all-target-headers.hmap -iquote /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/amunsie-project-headers.hmap -I/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/include -I/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/DerivedSources/i386 -I/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/DerivedSources -F/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator -include /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/PrecompiledHeaders/amunsie-Prefix-emgovafxzbgzkpdsoyzvvozvonxa/amunsie-Prefix.pch -MMD -MT dependencies -MF /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/comDetailViewController.d --serialize-diagnostics /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/comDetailViewController.dia -c /Users/damekjan74/Desktop/amunsie/amunsie/comDetailViewController.m -o /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/comDetailViewController.o36"8D90C807-8FDF-4CBB-B947-618BB058D7BA-
+
+CCompileC DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/comMasterViewController.o /Users/damekjan74/Desktop/amunsie/amunsie/comMasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352502316.954724
+e352502317.149039
+r1
+xCompileC
+xDerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/comMasterViewController.o
+x/Users/damekjan74/Desktop/amunsie/amunsie/comMasterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/damekjan74/Desktop/amunsie/amunsie/comMasterViewController.me89ff42cc202b541^7f32262dc202b541^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/damekjan74/Desktop/amunsie/amunsie/comMasterViewController.m0000000000000000^3628"CompileC DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/comMasterViewController.o amunsie/comMasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/damekjan74/Desktop/amunsie    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/amunsie-generated-files.hmap -I/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/amunsie-own-target-headers.hmap -I/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/amunsie-all-target-headers.hmap -iquote /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/amunsie-project-headers.hmap -I/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/include -I/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/DerivedSources/i386 -I/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/DerivedSources -F/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator -include /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/PrecompiledHeaders/amunsie-Prefix-emgovafxzbgzkpdsoyzvvozvonxa/amunsie-Prefix.pch -MMD -MT dependencies -MF /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/comMasterViewController.d --serialize-diagnostics /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/comMasterViewController.dia -c /Users/damekjan74/Desktop/amunsie/amunsie/comMasterViewController.m -o /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/comMasterViewController.o36"511157E6-50C3-4924-8052-C0D5B351ABF6-
+
+CCompileC DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/main.o /Users/damekjan74/Desktop/amunsie/amunsie/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352502316.859418
+e352502316.953343
+r1
+xCompileC
+xDerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/main.o
+x/Users/damekjan74/Desktop/amunsie/amunsie/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Users/damekjan74/Desktop/amunsie/amunsie/main.m1a30dc2cc202b541^7783f42cc202b541^---0#0#0#-19%DVTDocumentLocation2@64"file://localhost/Users/damekjan74/Desktop/amunsie/amunsie/main.m0000000000000000^3514"CompileC DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/main.o amunsie/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/damekjan74/Desktop/amunsie    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/amunsie-generated-files.hmap -I/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/amunsie-own-target-headers.hmap -I/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/amunsie-all-target-headers.hmap -iquote /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/amunsie-project-headers.hmap -I/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/include -I/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/DerivedSources/i386 -I/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/DerivedSources -F/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator -include /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/PrecompiledHeaders/amunsie-Prefix-emgovafxzbgzkpdsoyzvvozvonxa/amunsie-Prefix.pch -MMD -MT dependencies -MF /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/main.dia -c /Users/damekjan74/Desktop/amunsie/amunsie/main.m -o /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/main.o36"C06000F1-DFC6-4869-862C-BD976778E5C3-
+
+CCompileXIB /Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comDetailViewController_iPad.xib
+s352502318.779635
+e352502319.423158
+r1
+xCompileXIB
+x/Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comDetailViewController_iPad.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compiling /Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comDetailViewController_iPad.xibebabc72ec202b541^0e656c2fc202b541^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comDetailViewController_iPad.xib0000000000000000^925"CompileXIB amunsie/en.lproj/comDetailViewController_iPad.xib    cd /Users/damekjan74/Desktop/amunsie    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/en.lproj/comDetailViewController_iPad.nib /Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comDetailViewController_iPad.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"38D95209-7431-44D9-8D4E-16BE1E65A714-
+
+CCompileXIB /Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comDetailViewController_iPhone.xib
+s352502318.777298
+e352502319.285099
+r1
+xCompileXIB
+x/Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comDetailViewController_iPhone.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compiling /Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comDetailViewController_iPhone.xibe815c72ec202b541^890a492fc202b541^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comDetailViewController_iPhone.xib0000000000000000^931"CompileXIB amunsie/en.lproj/comDetailViewController_iPhone.xib    cd /Users/damekjan74/Desktop/amunsie    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/en.lproj/comDetailViewController_iPhone.nib /Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comDetailViewController_iPhone.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"FCDF2DE3-DD35-49AE-AF80-68367E494818-
+
+CCompileXIB /Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comMasterViewController_iPad.xib
+s352502317.414084
+e352502318.775983
+r1
+xCompileXIB
+x/Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comMasterViewController_iPad.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compiling /Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comMasterViewController_iPad.xibd7166a2dc202b541^91b5c62ec202b541^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comMasterViewController_iPad.xib0000000000000000^925"CompileXIB amunsie/en.lproj/comMasterViewController_iPad.xib    cd /Users/damekjan74/Desktop/amunsie    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/en.lproj/comMasterViewController_iPad.nib /Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comMasterViewController_iPad.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"5E8B7B1E-7469-4098-B95F-50A9251CBA24-
+
+CCompileXIB /Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comMasterViewController_iPhone.xib
+s352502317.409294
+e352502318.778236
+r1
+xCompileXIB
+x/Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comMasterViewController_iPhone.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compiling /Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comMasterViewController_iPhone.xib5de2682dc202b541^ee42c72ec202b541^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comMasterViewController_iPhone.xib0000000000000000^931"CompileXIB amunsie/en.lproj/comMasterViewController_iPhone.xib    cd /Users/damekjan74/Desktop/amunsie    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/en.lproj/comMasterViewController_iPhone.nib /Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/comMasterViewController_iPhone.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"1E204055-3045-4A51-8290-EAB2F524DF3A-
+
+CCopyStringsFile /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/en.lproj/InfoPlist.strings amunsie/en.lproj/InfoPlist.strings
+s352502317.409298
+e352502317.412879
+r1
+xCopyStringsFile
+x/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/en.lproj/InfoPlist.strings
+xamunsie/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy amunsie/en.lproj/InfoPlist.strings5de2682dc202b541^1fbd692dc202b541^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/damekjan74/Desktop/amunsie/amunsie/en.lproj/InfoPlist.strings0000000000000000^623"CopyStringsFile DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/en.lproj/InfoPlist.strings amunsie/en.lproj/InfoPlist.strings    cd /Users/damekjan74/Desktop/amunsie    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/en.lproj -- amunsie/en.lproj/InfoPlist.strings36"9B8E15C5-AF5D-4A36-B863-6658CF5D00BC-
+
+CDataModelVersionCompile /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/amunsie.momd /Users/damekjan74/Desktop/amunsie/amunsie/amunsie.xcdatamodeld
+s352502316.084363
+e352502316.455980
+r1
+xDataModelVersionCompile
+x/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/amunsie.momd
+x/Users/damekjan74/Desktop/amunsie/amunsie/amunsie.xcdatamodeld
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"DataModelVersionCompile DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/amunsie.momd amunsie/amunsie.xcdatamodeld81b2152cc202b541^47e7742cc202b541^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/damekjan74/Desktop/amunsie/amunsie/amunsie.xcdatamodeld/0000000000000000^861"DataModelVersionCompile DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/amunsie.momd amunsie/amunsie.xcdatamodeld    cd /Users/damekjan74/Desktop/amunsie    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -XD_MOMC_IOS_TARGET_VERSION=3.0 -MOMC_PLATFORMS iphonesimulator -MOMC_PLATFORMS iphoneos -XD_MOMC_TARGET_VERSION=10.6 /Users/damekjan74/Desktop/amunsie/amunsie/amunsie.xcdatamodeld /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/amunsie.momd36"63F53659-C093-464E-9157-6CE2AF8D88D0-
+
+CGenerateDSYMFile /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app.dSYM /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/amunsie
+s352502317.357917
+e352502317.400555
+r1
+xGenerateDSYMFile
+x/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app.dSYM
+x/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/amunsie
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Generating /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app.dSYM7cb95b2dc202b541^a48a662dc202b541^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app.dSYM000000000080d041^735"GenerateDSYMFile DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app.dSYM DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/amunsie    cd /Users/damekjan74/Desktop/amunsie    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/amunsie -o /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app.dSYM36"CF99D016-C7A1-431C-B4D8-7B3D7955029D-
+
+CLd /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/amunsie normal i386
+s352502317.173446
+e352502317.350817
+r1
+xLd
+x/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/amunsie
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Link /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/amunsiea9832c2dc202b541^20d0592dc202b541^---0#0#0#--1295"Ld DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/amunsie normal i386    cd /Users/damekjan74/Desktop/amunsie    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator -F/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator -filelist /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/Objects-normal/i386/amunsie.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -framework UIKit -framework Foundation -framework CoreGraphics -framework CoreData -o /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/amunsie36"ACB7EB14-9781-44B9-A186-94734FD8868F-
+
+CProcessInfoPlistFile /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/Info.plist amunsie/amunsie-Info.plist
+s352502316.070963
+e352502316.075766
+r1
+xProcessInfoPlistFile
+x/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/Info.plist
+xamunsie/amunsie-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Process amunsie/amunsie-Info.plist9145122cc202b541^39d0132cc202b541^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/damekjan74/Desktop/amunsie/amunsie/amunsie-Info.plist0000000000000000^722"ProcessInfoPlistFile DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/Info.plist amunsie/amunsie-Info.plist    cd /Users/damekjan74/Desktop/amunsie    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility amunsie/amunsie-Info.plist -genpkginfo /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app/Info.plist36"69BE7188-46C3-44AE-BE14-A95AA0011538-
+
+CProcessPCH /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/PrecompiledHeaders/amunsie-Prefix-emgovafxzbgzkpdsoyzvvozvonxa/amunsie-Prefix.pch.pth amunsie/amunsie-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352502316.084964
+e352502316.851782
+r1
+xProcessPCH
+x/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/PrecompiledHeaders/amunsie-Prefix-emgovafxzbgzkpdsoyzvvozvonxa/amunsie-Prefix.pch.pth
+xamunsie/amunsie-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile amunsie/amunsie-Prefix.pch37e2152cc202b541^af23da2cc202b541^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/damekjan74/Desktop/amunsie/amunsie/amunsie-Prefix.pch0000000000000000^3414"ProcessPCH DerivedData/amunsie/Build/Intermediates/PrecompiledHeaders/amunsie-Prefix-emgovafxzbgzkpdsoyzvvozvonxa/amunsie-Prefix.pch.pth amunsie/amunsie-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/damekjan74/Desktop/amunsie    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/amunsie-generated-files.hmap -I/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/amunsie-own-target-headers.hmap -I/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/amunsie-all-target-headers.hmap -iquote /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/amunsie-project-headers.hmap -I/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/include -I/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/DerivedSources/i386 -I/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/amunsie.build/Debug-iphonesimulator/amunsie.build/DerivedSources -F/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/PrecompiledHeaders/amunsie-Prefix-emgovafxzbgzkpdsoyzvvozvonxa/amunsie-Prefix.pch.dia -c /Users/damekjan74/Desktop/amunsie/amunsie/amunsie-Prefix.pch -o /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/PrecompiledHeaders/amunsie-Prefix-emgovafxzbgzkpdsoyzvvozvonxa/amunsie-Prefix.pch.pth -MMD -MT dependencies -MF /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Intermediates/PrecompiledHeaders/amunsie-Prefix-emgovafxzbgzkpdsoyzvvozvonxa/amunsie-Prefix.pch.d36"7F4D8211-7FAF-4408-8C43-B4BCC8409CA4-
+
+CProcessPCH /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Index/PrecompiledHeaders/amunsie-Prefix-bxhpmgcpfwunqcbrnvnvxrbqmhfu_ast/amunsie-Prefix.pch.pth amunsie/amunsie-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app
+s352502319.431849
+e352502319.449480
+r1
+xTouch
+x/Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Touch /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app5ea26e2fc202b541^de1f732fc202b541^---0#0#0#--436"Touch DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app    cd /Users/damekjan74/Desktop/amunsie    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/damekjan74/Desktop/amunsie/DerivedData/amunsie/Build/Products/Debug-iphonesimulator/amunsie.app36"215DB13B-A7F0-478A-8F20-6304B7D3778C-
+
